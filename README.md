@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chaeuny
+👋 Hi, I’m @chaeuny
 
 <!---
 chaeuny/chaeuny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
